@@ -1,0 +1,10 @@
+# Minecraft Hosts
+# By kalicat and Landon
+82.2.115.66	play.acecrafting.MC
+82.2.115.66	acecrafting
+25.12.216.94 play.poseidons.MC
+25.12.216.94 poseidons
+208.115.247.166 bn-smp.MC
+208.115.247.166 BeastNation
+208.115.247.166 beastnation
+65.167.143.142 landon
