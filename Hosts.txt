@@ -7,4 +7,3 @@
 208.115.247.166 bn-smp.MC
 208.115.247.166 BeastNation
 208.115.247.166 beastnation
-65.167.143.142 landon
