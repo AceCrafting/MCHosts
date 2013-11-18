@@ -7,3 +7,5 @@
 208.115.247.166 bn-smp.MC
 208.115.247.166 BeastNation
 208.115.247.166 beastnation
+127.0.0.1 MedievalCraft
+127.0.0.1 medievalcraft.MC
